@@ -16,6 +16,7 @@ body {
     background-color: #fff; /* Color de fondo blanco para el contenido */
     padding: 20px; /* Espacio alrededor del contenido */
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Sombra alrededor del contenido */
+    border: 20px solid #fff; /* Agrega un margen blanco alrededor del contenido */
 }
 
 .centrado h1 {
@@ -49,12 +50,6 @@ body {
 
 .boton-youtube {
     display: inline-block;
-    background-color: #ff0000; /* Color de fondo rojo para el botón de YouTube */
-    color: #ffffff; /* Color de texto blanco para el botón de YouTube */
-    padding: 10px 20px;
-    text-decoration: none;
-    margin-top: 10px;
-}
     background-color: #ff0000; /* Color de fondo rojo para el botón de YouTube */
     color: #ffffff; /* Color de texto blanco para el botón de YouTube */
     padding: 10px 20px;
