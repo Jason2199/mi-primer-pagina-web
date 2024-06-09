@@ -14,14 +14,18 @@ body {
     width: 80%;
     margin: auto;
     background-color: #fff; /* Color de fondo blanco para el contenido */
+    padding: 20px; /* Espacio alrededor del contenido */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Sombra alrededor del contenido */
 }
 
 .centrado h1 {
     background-color: #fff; /* Color de fondo blanco para el título */
+    margin-bottom: 20px; /* Espacio debajo del título */
 }
 
 .centrado .contenido {
     text-align: justify; /* Texto justificado */
+    margin-bottom: 20px; /* Espacio debajo del contenido */
 }
 
 .centrado .contenido img.imagen-derecha {
@@ -34,8 +38,23 @@ body {
 .centrado .contenido p {
     background-color: #fff; /* Color de fondo blanco para el párrafo */
 }
+
+.centrado h2 {
+    margin-top: 20px; /* Espacio encima del título del video */
+}
+
+.centrado .descripcion {
+    margin-top: 10px; /* Espacio encima de la descripción del video */
+}
+
 .boton-youtube {
     display: inline-block;
+    background-color: #ff0000; /* Color de fondo rojo para el botón de YouTube */
+    color: #ffffff; /* Color de texto blanco para el botón de YouTube */
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-top: 10px;
+}
     background-color: #ff0000; /* Color de fondo rojo para el botón de YouTube */
     color: #ffffff; /* Color de texto blanco para el botón de YouTube */
     padding: 10px 20px;
