@@ -32,6 +32,7 @@ body {
 .centrado .contenido img.imagen-derecha {
     float: right; /* Alinea la imagen a la derecha */
     margin-left: 20px; /* Espacio a la izquierda de la imagen */
+    margin-right: 30px; /* Espacio a la derecha de la imagen */
     max-width: 200px; /* Ajusta el tamaño de la imagen */
     height: auto; /* Mantiene la proporción de la imagen */
 }
