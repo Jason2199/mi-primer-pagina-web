@@ -26,7 +26,7 @@ body {
 
 .centrado .contenido {
     text-align: justify; /* Texto justificado */
-    margin-bottom: 20px; /* Espacio debajo del contenido */
+    padding-left: 30px;/* Espacio debajo del contenido */
 }
 
 .centrado .contenido img.imagen-derecha {
